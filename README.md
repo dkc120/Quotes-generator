@@ -1,4 +1,4 @@
-# quotes_generator
+# Quotes_generator
 
 1.Type cd server in terminal if you are not in terminal
 <br />
